@@ -1,0 +1,8 @@
+- Par défaut, tout trafic est interdit.
+- Politique 1 : Tous les hôtes du réseau privé peuvent réaliser des commandes ping sur toutes les machines du
+réseau public, mais pas l'inverse.
+- Politique 2 : Tous les hôtes du réseau privé peuvent ouvrir une connexion HTTP sur les serveurs web du
+réseau public.
+- Politique 3 : Tous les hôtes du réseau public peuvent ouvrir une connexion HTTP sur le serveur web du pc5.
+- Politique 4 : Tous les hôtes du réseau privé peuvent réaliser des commandes ping sur l’interface eth0 du
+routeur mais pas l’inverse.
